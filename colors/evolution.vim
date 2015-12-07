@@ -41,10 +41,11 @@ hi FoldColumn     guibg=#001336 guifg=#003DAD gui=none term=NONE cterm=NONE cter
 hi Folded         guibg=#585858 guifg=#c5dcdc gui=bold term=NONE cterm=bold ctermbg=240 ctermfg=188
 
 " -> Line info
-hi LineNr         guibg=#3d5074 guifg=#1F1F1F gui=none term=underline cterm=NONE ctermbg=233 ctermfg=236
-hi StatusLine     guibg=#3d5074 guifg=fg      gui=bold term=reverse,bold cterm=reverse,bold ctermbg=60 ctermfg=252
+"hi LineNr         guibg=#121212 guifg=#1F1F1F gui=none term=underline cterm=NONE ctermbg=233 ctermfg=236
+hi LineNr         guibg=#121212 guifg=#1F1F1F gui=none term=underline cterm=NONE ctermbg=233 ctermfg=236
+hi StatusLine     guibg=#121212 guifg=fg      gui=bold term=reverse,bold cterm=reverse,bold ctermbg=60 ctermfg=252
 hi StatusLineNC   guibg=#25365a guifg=#696567 gui=none term=reverse cterm=reverse ctermbg=60 ctermfg=53  "alt: guibg=#4d5074 guifg=#5F005F
-hi ColorColumn    guibg=#3d5074 guifg=fg      gui=none term=reverse cterm=NONE ctermbg=233 ctermfg=fg "alt: guibg=#5F005F guifg=#d0d0d0
+hi ColorColumn    guibg=#121212 guifg=fg      gui=none term=reverse cterm=NONE ctermbg=233 ctermfg=fg "alt: guibg=#5F005F guifg=#d0d0d0
 
 
 " -> Messages
@@ -141,5 +142,5 @@ if has("spell")
   hi SpellRare  guisp=#6DF584 gui=undercurl term=reverse cterm=undercurl ctermbg=NONE ctermfg=84
 endif
 
-hi MyTagListFileName guibg=#3d5074 guifg=#d0d0d0 gui=NONE term=bold cterm=bold ctermbg=53 ctermfg=220
+hi MyTagListFileName guibg=#121212 guifg=#d0d0d0 gui=NONE term=bold cterm=bold ctermbg=53 ctermfg=220
 
