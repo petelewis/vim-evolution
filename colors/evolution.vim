@@ -24,6 +24,7 @@ hi Normal         guibg=#1F1F1F guifg=#D0D0D0 gui=none term=NONE cterm=NONE cter
 hi SpecialKey     guibg=#1F1F1F guifg=#E783E9 gui=none term=bold cterm=NONE ctermbg=NONE ctermfg=176
 hi VertSplit      guibg=#121212 guifg=#121212 gui=none term=reverse cterm=NONE ctermbg=233 ctermfg=233 "alt: guibg=#4d5074 guifg=#4d5074
 hi SignColumn     guibg=#1F1F1F guifg=#BF81FA gui=none term=NONE cterm=NONE ctermbg=NONE ctermfg=141
+hi SyntasticErrorSign guibg=#BF81FA ctermbg=233
 hi NonText        guibg=#1F1F1F guifg=#FC6984 gui=none term=bold cterm=NONE ctermbg=NONE ctermfg=204
 hi Directory      guibg=#1F1F1F guifg=#FFEE68 gui=none term=bold cterm=bold ctermbg=NONE ctermfg=227
 hi Title          guibg=#1F1F1F guifg=#6DF584 gui=bold term=bold cterm=bold ctermbg=NONE ctermfg=84
