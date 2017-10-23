@@ -25,7 +25,7 @@ hi SpecialKey     guibg=#1F1F1F guifg=#E783E9 gui=none term=bold cterm=NONE cter
 hi VertSplit      guibg=#121212 guifg=#121212 gui=none term=reverse cterm=NONE ctermbg=233 ctermfg=233 "alt: guibg=#4d5074 guifg=#4d5074
 hi SignColumn     guibg=#1F1F1F guifg=#BF81FA gui=none term=NONE cterm=NONE ctermbg=NONE ctermfg=141
 hi SyntasticErrorSign guibg=#BF81FA ctermbg=233
-hi NonText        guibg=#1F1F1F guifg=#FC6984 gui=none term=bold cterm=NONE ctermbg=NONE ctermfg=204
+hi NonText        guibg=#121212 ctermbg=233
 hi Directory      guibg=#1F1F1F guifg=#FFEE68 gui=none term=bold cterm=bold ctermbg=NONE ctermfg=227
 hi Title          guibg=#1F1F1F guifg=#6DF584 gui=bold term=bold cterm=bold ctermbg=NONE ctermfg=84
 hi BadWhitespace  guibg=#0ADA7D guifg=fg      gui=NONE term=NONE cterm=NONE ctermbg=59 ctermfg=fg
@@ -46,7 +46,7 @@ hi Folded         guibg=#585858 guifg=#c5dcdc gui=bold term=NONE cterm=bold cter
 hi LineNr         guibg=#121212 guifg=#3F3F3F gui=none term=underline cterm=NONE ctermbg=233 ctermfg=236
 hi StatusLine     guibg=#121212 guifg=fg      gui=bold term=reverse,bold cterm=reverse,bold ctermbg=60 ctermfg=252
 hi StatusLineNC   guibg=#25365a guifg=#696567 gui=none term=reverse cterm=reverse ctermbg=60 ctermfg=53  "alt: guibg=#4d5074 guifg=#5F005F
-hi ColorColumn    guibg=#121212 guifg=fg      gui=none term=reverse cterm=NONE ctermbg=233 ctermfg=fg "alt: guibg=#5F005F guifg=#d0d0d0
+hi ColorColumn    guibg=#121212 ctermbg=233
 
 
 " -> Messages
