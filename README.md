@@ -1,7 +1,7 @@
 # vim-evolution
 A colour scheme for Vim.
 
-![Screenshot](http://muddygoat.org/attachments/vim-evolution-h-cropped.png)
+![Screenshot](screenshots/vim-evolution-h-cropped.png)
 
 The aim is to provide obvious and clear colours for syntax highlighting, with
 colouring for non-text objects that is useful, easy on the eyes and stays out
@@ -19,6 +19,6 @@ Supports 256 colour terminals and gvim.
 
 Here are some more screenshots:
 
-![Screenshot](http://muddygoat.org/attachments/vim-evolution-latex-cropped.png)
-![Screenshot](http://muddygoat.org/attachments/vim-evolution-ruby-cropped.png)
-![Screenshot](http://muddygoat.org/attachments/vim-evolution-markdown-cropped.png)
+![Screenshot](screenshots/vim-evolution-latex-cropped.png)
+![Screenshot](screenshots/vim-evolution-ruby-cropped.png)
+![Screenshot](screenshots/vim-evolution-markdown-cropped.png)
